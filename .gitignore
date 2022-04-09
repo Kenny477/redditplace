@@ -4,3 +4,7 @@
 *.pkl
 *.feather
 *.gzip
+
+**/.DS_Store
+
+*.log
